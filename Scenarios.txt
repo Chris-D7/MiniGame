@@ -1,0 +1,270 @@
+3
+Choose starting class:
+Warrior
+Mage
+Thief
+3 2 0 0 1 5 2
+0 1 3 3 0 3 0
+1 3 1 1 2 4 1
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0
+*
+3
+You are a young adventurer hoping to find treasure by exploring the abandoned castle that the local people have been avoiding. You start packing up for the trip. You know that you have to go through a forest to get to the castle and that you need to be prepared for everything. The pack is almost full. You have space for one more item:
+The Ring of Apolinaria
+Hasted Boots
+Cloak of the Nemean Lion
+0 1 2 2 0 0 0
+0 2 1 0 1 0 1
+2 0 0 0 1 0 2
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0
+*
+3
+You start your journey, leaving at night, hoping you don't attract the guards' attention. After a while, the shape of the castle becomes clearer on the horizon. Suddenly, you notice a thick mist approaching you. A shriveled woman with hollow eyes makes its appearance right in front of you. As she starts letting out a powerful shriek, you gain a little distance, terrified of the undead creature:
+Outrun the shriek
+Stand on your feet and smite the creature
+Recite an ancient prayer meant to ward off the undead
+0 0 0 0 0 0 -2
+0 0 1 0 0 0 0
+0 0 0 0 0 0 0
+0 2 0 0 0 0 0
+3 1 0 0 0 0 0
+0 0 2 1 0 0 0
+0 0 0 0 0 0 -5
+0 0 0 0 0 0 -5
+0 0 0 0 0 0 -5
+You start running away from the scene. Just as you think you're in the clear, you trip over a rock and hit your head. At least you managed to escape.
+You raise your sword up above your head. For a fraction of a second, moonlight reflects on your sword and lands on the creature's visage, right before the decisive blow. The figure disappears, leaving behind some specter dust and you use it to increase your perception.
+You quickly search in your backpack for your grandfather's old cross. Just as the creature prepares to attack, you successfully get the cross and start chanting an old prayer meant to ward off the undead. The creature covers its ears, and starts running away deep into the forest.
+You run for a bit, but become too tired and unable to outrun the shriek. The shriek immobilizes you and the creature slashes you with its claws. You quickly get up on your feet and run for the castle.
+The undead grabs your sword and throws it away. The shriek immobilizes you and the creature slashes you with its claws. You quickly get up on your feet and run for the castle.
+You quickly search in your backpack for your grandfather's old cross. Being unable to find it, you are left defenseless. The shriek immobilizes you and the creature slashes you with its claws. You quickly get up on your feet and run for the castle.
+*
+3
+You arrive at the castle and start looking around for an entrance because the main one is blocked off by fallen rubble. You see a few different ways to get into the courtyard:
+Move the rubble out of the way 
+Climb the castle walls 
+Destroy the castle wall
+1 0 0 0 0 0 0
+0 0 1 0 0 0 0
+0 0 0 1 0 0 0
+2 2 0 0 0 0 0
+0 3 1 0 0 0 0
+0 0 1 2 0 0 0
+0 -2 0 0 0 0 -1
+0 0 0 0 0 0 -3
+0 -1 -1 0 0 0 0
+You start moving the fallen rubble out of the way. You are surprised at how well you manage this task and by the time you are done you feel stronger and eager to venture forth.
+You can see that the stones on one side of the wall are starting to stick out. This is due to the growth of moss on the surface of the stones. You carefully start climbing it, knowing to avoid slipping on the moss.
+You pull out your spellbook and start focusing your mana on a powerful ice spike. After a few moments you release the spell, the ice spike freezing the decrepit wall and shattering it in an instant.
+You start moving the fallen rubble to clear the path, but become too weak to move some parts of the wall. You manage to create enough space to squeeze through, but emerge feeling exhausted and bruised.
+You can see that the stones on one side of the wall are starting to stick out. You quickly go over to the wall and try to climb it. Halfway up, your foot slips on the moss and you fall. Feeling dizzy, you climb again, being careful this time. 
+You pull out your spellbook and start focusing your mana on a powerful ice spike. The spell proves to require a greater understanding of the magical arts. Instead, you decide to blast the wall with weaker spells until you break through, but feel exhausted at the end.
+*
+3
+You head towards the castle's main gate but find it locked, so you take a detour through the library. While there, you notice a black mirror in the corner emitting a purple glow. When you look into it, all you can see is an empty void that seems to stare back at you:
+Ignore the mirror
+Smash the mirror
+Use one of your magic scrolls to peer into the mirror’s abyss
+0 0 0 0 0 0 0
+0 0 -1 0 0 0 0
+0 0 1 -3 0 0 0
+0 0 0 0 0 0 0
+2 1 0 0 0 0 0
+0 0 2 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 2
+0 0 1 0 0 0 0
+You decide it is best not to dwell into the unknown and pass the mirror without interacting with it.
+You do a swift motion with your sword, but to your surprise the mirror is still intact. Instead, you manage to scrape off a few crystals off its surface that land on your armor, tightening the build and making it more sturdy.
+You begin to read a farsight scroll, gaining a drop of the mirror's knowledge.
+You decide it is best not to dwell into the unknown and pass the mirror without interacting with it.
+You do a swift motion with your sword and the mirror shatters. The light provided by the mirror is now no longer there which makes it difficult to see what lies ahead.
+You begin to read a farsight scroll, but a demonic voice interrupts you, draining your essence. After a few moments, the voice releases you, and the mirror glows brighter with your mana. You leave feeling drained.
+*
+2
+Leaving the library, you head towards the dining hall when you hear the sound of objects being thrown around. Eager to investigate, you look for a way down, but find that the staircase is broken:
+Use one of the curtains to rappel down 
+Use a levitation spell to land safely
+0 1 0 0 2 0 0
+0 0 1 1 0 0 0
+1 2 0 0 0 0 0
+0 0 3 3 0 0 0
+0 0 0 0 0 0 -4
+0 0 0 0 0 0 -4
+You grab one of the red curtains that are hanging above the dinning hall and rappel down. Just before you hit the ground the flimsy material snaps and the bottom half of the curtain falls down on you. It wraps itself nicely around your neck and you decide to keep the dashing new cape.
+You step off the ledge and firmly descend into the dinning hall while saying the levitation spell. You land near a shelf filled with alchemy ingredients and you spot one perfectly intact health potion. You put it in your bag.
+You grab one of the red curtains that are hanging above the dinning hall and rappel down. Your upper body strength is not what you thought, and you have to let go due to fatigue. You fall and injure yourself.
+You step off the ledge and start saying the levitation spell. Your mana reserves and magical knowledge are not enough to keep you afloat. You fall and injure yourself.
+*
+3
+You enter the dining hall and realize the source of the earlier sound. You spot three bandits going through the silver and gold cutlery abandoned on the wooden tables. Not only could they prove dangerous, but you are also worried that they might steal the whatever treasure might be buried further:
+You try to sneak past them
+You try to scare them off 
+You attack head on
+0 1 1 0 0 0 0
+0 0 1 0 1 0 0
+1 1 0 0 -1 0 -1
+0 3 2 0 0 0 0
+0 1 2 0 3 0 0
+4 2 0 0 0 0 1
+0 0 0 0 0 0 -7
+0 0 0 0 0 0 -7
+0 0 0 0 0 0 -7
+With one hand you hold on to your backpack so as to not make any noise while moving and you sprint towards a fallen cupboard. You continue to stick to the shadows until you reach the staircase that leads out of the dining hall.
+You hide behind the fallen cupboard and start throwing the cutlery across the dining hall while making noises. The bandits try to appear valiant in the face of the supernatural, but you quickly grab one of the fallen curtains and put it over your head. You balance yourself on one foot while leaning left and right giving your best to look like a ghost. The bandits turn heel in an instant.
+You tighten your grip and step in front of the bandits. One by one you cut them down. At the end of the fight you notice that you are covered in blood and have a few more scars to show when you get home. 
+You try to make a run for the fallen cupboard but your backpack makes too much noise. One of the bandits sees you and they all rush towards you. You manage to fend off any lethal blows and make a run for the next room, locking the door behind you.
+You hide behind the fallen cupboard and start throwing the cutlery across the dining hall while making noises. One of the bandits sees you and they all rush towards you. You manage to fend off any lethal blows and make a run for the next room, locking the door behind you.
+You tighten your grip and step in front of the bandits. You try to fight them off, but they appear to be more skilled. You manage to fend off any lethal blows and make a run for the next room, locking the door behind you.
+*
+3
+You now find yourself in a long hallway that seems to lead to the throne room. You are near the door when you notice a chest hidden away in a corner that has a weird kind of glow to it. You approach it and realize it is magically sealed by runes:
+Decipher the runes
+Smash open the chest
+Leave the chest
+1 2 0 0 0 1 2
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 6 4 0 0 0
+4 3 0 0 0 0 0 
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 -2
+0 0 0 0 0 0 0
+You start tracing the glyphs burnt into the runes using a special substance stored into your satchel. A colorful smoke emanates from the runes before disappearing. You discover a bracelet inside the chest that makes you feel rejuvenated once you equip it. 
+You clench your fist and punch the wooden chest with all your might, managing to break through it. However, due to the failure mechanism of the glyphs that were in place, the contents are also destroyed.
+You do not have a way to open the chest. You leave it where it is. As you depart you spot a potion hidden behind the chest. You put them in your pack. (GETTING RICH BABY)
+You start tracing the glyphs burnt into the runes using a special substance stored into your satchel. You make a wrong motion by accident and your concentration fades away leaving the chest locked.
+You clench your fist and punch the  wooden chest with all your might. It does absolutely nothing. In response to your brute nature, the glyphs spout out a few fire embers that land and sizzle in your palms.
+You do not have a way to open the chest. You leave it where it is. As you depart you spot a potion hidden behind the chest. You put them in your pack. (GETTING RICH BABY)
+*
+2
+You burst through the throne room and are frozen in place with fear. You spot a dragon priest sitting on the throne commanding an army of skeletons. His dragon has already caught you in its sharp gaze and is ready for anything.
+You press forward.
+You turn back. (be a bitch basically)
+0 0 0 0 0 0 0 
+0 0 0 0 0 -100 0
+0 0 0 0 0 5 0
+0 0 0 0 0 0 0
+0 0 0 0 0 -100 0
+0 0 0 0 0 0 0
+You gather your wits and continue. You will not leave this place empty-handed.
+You assess the situation and you recognize the fact that you are too exhausted and wounded to continue. You make a run for it, shutting the door behind you and never looking back. 
+You try to make a stand and to get into a battle-ready state, but you are too exhausted. You collapsed and left as food for the dragon.
+You assess the situation and you recognize the fact that you are too exhausted and wounded to continue. You make a run for it, shutting the door behind you and never looking back. 
+*
+3
+The dragon priest morbidly points his staff towards you ordering the skeleton army to attack you. You prepare yourself to:
+Charm the skeletons
+Fight using your sword
+Cast a lighting spell
+2 2 0 0 2 0 0
+1 -2 0 0 0 0 0
+0 0 0 0 0 0 0
+0 1 4 4 0 0 0
+6 4 0 0 0 12 2
+0 3 6 6 0 0 0
+0 0 0 0 0 0 -10
+0 0 0 0 0 0 -10
+0 0 0 0 0 0 -10
+You raise your hand and with a flick of the wrist the skeletons’ eyes sockets are now radiating a warm glow indicating that they are under your command. 
+You unsheathe your weapon and charge forward. You spin around creating a whirlwind of slashes around you that immediately makes the skeleton bones collapse. 
+You clap your hands together slowly parting them creating a string of lighting into a whip-like shape. You then swing it to your side and use it to strike skeletons.
+You raise your hand and flick your wrist in an attempt to gain control of the skeletons with your spell, but it does not take effect. Despite their attack, you manage to defeat them in the end.
+You unsheathe your weapon and charge forward. They quickly overwhelm you. Despite their attack, you manage to defeat them in the end.
+You clap your hands together slowly parting them creating a string of lighting into a whip-like shape. Before the whip can be completed, the spell spazzes out and dissipates leaving you defenseless. Despite their attack, you manage to defeat them in the end.
+*
+3
+The dragon priest looks impressed, though perhaps slightly annoyed at your success. He raises a finger and the dragon descends obediently before him. As you stare at the dragon, you notice it starting to charge up an attack, most likely its fiery breath:
+You stand your ground
+You summon a protective ward
+You dodge out of the way
+10 0 0 0 0 -14 5
+0 0 8 -4 0 0 0
+2 7 3 0 0 0 -3
+1 0 4 4 0 5 0
+0 0 7 5 0 0 0
+2 8 2 0 0 0 0
+0 0 0 0 0 -20 0
+0 0 0 0 0 -13 0
+0 0 0 0 0 -13 0
+You take a step forward, locking eyes with the dragon as you do so. You straighten your back and let the fiery breath wash over you. As your skin burns away, your warrior spirit emerges, and you feel invincible, cloaked in a mantle of embers and gaining immunity to fire.
+You place one hand on your spell book and raise the other in front of you, conjuring a tilted ward from the ground to deflect the incoming attack. Just as the flames make contact, you imbue the ward with magical properties, absorbing its essence and empowering your next attack.
+With lightning-fast reflexes, you leap to the side, narrowly avoiding the blast. The intense heat scorches the ground where you had stood just moments before and burns away your armor. As you recover your balance, you spot an opening and rush in, stabbing  the dragon with your dagger.
+You take a step forward, locking eyes with the dragon as you do so. You straighten your back and let the fiery breath wash over you, but your resilience fails you. As the dragon's breath finishes, you crumble to the ground, reduced to a pile of bones and ash.
+You place one hand on your spell book and raise the other in front of you, conjuring a tilted ward from the ground to deflect the incoming attack. Unfortunately, the ward is not strong enough to withstand the intense heat of the flames and collapses. At least you managed to avoid death, for now.
+With lightning-fast reflexes, you leap to the side, narrowly avoiding the blast. However, your foot catches on a piece of debris on the ground, throwing you off balance. The intense heat from the flames burns through your armor, and heavily damages you. At least you managed to avoid death, for now.
+*
+3
+Furious that you evaded death, the dragon priest signals for the dragon to attack. You watch as it charges towards you with jaws wide open, ready to consume you. You have only a few seconds to react:
+Grab the dragon’s head
+Counter-attack with a spell
+Climb on its head
+3 3 3 3 3 3 3
+3 3 3 3 3 3 3
+3 3 3 3 3 3 3
+10 0 0 0 0 0 0
+0 0 10 0 0 0 0
+0 10 0 0 0 0 0
+0 0 0 0 0 0 -20 
+0 0 0 0 0 0 -20
+0 0 0 0 0 0 -20
+You extend both of your arms and manage to stop the dragon's jaws from closing. With a quick and powerful movement, you grab hold of both and raise its head slightly before swiftly snapping its neck. The dragon's corpse dissipates, leaving behind only its essence, which you absorb.
+You conjure a crystal ball made of sharp ice shards. With grace, you hurl the ball towards the dragon's approaching jaws. As the ball reaches the dragon's throat, it expands, releasing the shards that pierce through the dragon and kill it instantly. The dragon's corpse dissipates, leaving behind only its essence, which you absorb.
+With the dragon’s jaws closing in on you, you leap up and grab onto its snout, using its momentum to propel yourself onto its head. With one hand holding onto a horn, you thrust your dagger deep into its skull, piercing its brain and killing it instantly. As the dragon falls to the ground, you slide down its neck, landing beside it. The dragon's corpse dissipates, leaving behind only its essence, which you absorb.
+You extend both of your arms and try to stop the dragon’s jaws from closing. You do not succeed.
+You try to conjure a crystal ball but the dragon is faster than you. It swallows you whole.
+With the dragon’s jaws closing in on you, you leap up and grab onto its snout, but the dragon raises its claw and smashes you against the wall. The hit is fatal.
+*
+3
+You finally come face to face with the dragon priest and notice that he is starting to lose confidence. As you prepare to attack, you see him fall to his knees and beg for mercy. You pause for a moment to consider your options before deciding what to do next:
+Spare the dragon priest
+Kill the dragon priest
+Demand information 
+0 0 0 0 6 0 0
+0 0 0 0 0 0 0
+0 0 8 0 0 0 0
+0 0 0 0 0 0 0
+15 0 0 0 0 0 0
+0 0 0 0 5 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 -20
+0 0 0 0 0 0 0
+You take pity on the dragon priest, despite his attempts to end your life. You knock him unconscious and leave him to fend for himself.
+You want your revenge. You take out your dagger and pierce his heart.
+As you consider killing the dragon priest, you have a sudden realization that he could be more useful to you alive. You decide to spare his life and use your powers to extract information from him. Placing your hand on his head, you invoke the spirits of the afterlife to peer into his knowledge. You discover that there is more to this castle than you originally thought and that you have interrupted a ritual that has been years in the making. However, before you are able to learn more, the dragon priest suddenly drops dead at your feet. It appears that someone had placed a curse on him that prevented him from divulging any information.
+You try to take pity on the dragon priest, but you are filled with rage and are thirsting for revenge. You take out your dagger and pierce his heart.
+You want your revenge. You take out your dagger and you pierce his heart.
+As you consider killing the dragon priest, you have a sudden realization that he could be more useful to you alive. You decide to spare his life and use your powers to extract information from him. Placing your hand on his head, you try to read his thoughts, but he drops dead due to the curse before you are able to extract anything.
+*
+3
+You walk past the dragon priest and approach the chests near the throne. As you open them, you're surprised to find that they contain some gold, but it's not exactly what you were expecting. Nonetheless, it's enough to sustain you for a while. Now you must decide what to do next:
+Continue adventuring
+Abandon adventuring
+Try to find more about the dragon priest
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0
+You decide that you enjoy the thrill of adventure and want to pursue it further. You believe that you have a talent for it and that it suits you. You choose the forest as your next destination, wanting to investigate the wraith that you encountered there.
+You take a moment to reflect on your journey so far and realize that adventuring is not what you truly want in life. You feel exhausted and burnt out from all the battles and close calls you've had. You decide to take a break from adventuring and explore other paths.
+You become curious about the knowledge that the dragon priest possessed and decide to investigate further. You search his chambers and find a hidden tome that reveals the secrets of a lost civilization. You realize that this knowledge is too valuable to leave behind and decide to study it further.
+You decide that you enjoy the thrill of adventure and want to pursue it further. You believe that you have a talent for it and that it suits you. You choose the forest as your next destination, wanting to investigate the wraith that you encountered there.
+You take a moment to reflect on your journey so far and realize that adventuring is not what you truly want in life. You feel exhausted and burnt out from all the battles and close calls you've had. You decide to take a break from adventuring and explore other paths.
+You become curious about the knowledge that the dragon priest possessed and decide to investigate further. You search his chambers and find a hidden tome that reveals the secrets of a lost civilization. You realize that this knowledge is too valuable to leave behind and decide to study it further.
+*
